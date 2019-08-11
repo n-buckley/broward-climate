@@ -20,8 +20,8 @@ const Layout = ({ children }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'Hyperspace' },
-            { name: 'keywords', content: 'site, web' },
+            { name: 'description', content: 'Broward Climate Alliance' },
+            { name: 'keywords', content: 'broward county, broward, climate, alliance, green, coalition' },
           ]}
         >
           <html lang="en" />

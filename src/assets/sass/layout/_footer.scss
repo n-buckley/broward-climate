@@ -9,6 +9,7 @@
 	#footer {
 		#sidebar + #wrapper + & {
 			margin-left: _size(sidebar-width);
+			background: _palette(bg-alt);
 
 			@include breakpoint('<=large') {
 				margin-left: 0;
