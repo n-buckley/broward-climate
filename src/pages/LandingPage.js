@@ -16,7 +16,7 @@ class LandingPage extends React.Component {
                 <p>
                     Broward Climate Alliance is a coaliton of many organizations with the same goals: to educate citizens about the current climate situation and generate political will for climate action.
                     <br />
-                    This year is it's inagural year as members found a lacking amount of communication between organizers. 
+                    This year is its inagural year as members found a lacking amount of communication between organizers. 
                 </p>
                 <ul className="actions">
                     <li>
