@@ -19,11 +19,12 @@ class MissionPage extends React.Component {
                 </a>
                 <div className="content">
                     <div className="inner">
-                    <h2>Misson</h2>
+                    <h2>Mission</h2>
                     <p>
-                        Our mission is to creaate a communal platform to make the decentralized grassroots climate activism in Broward more communicative and aware of other local events and organizing.
+                        Our mission is to link Broward Climate organizations, educate Broward citizens about the Climate Crisis and how it puts all forms of justice at risk, and generate political will for action.
+
                         <br /> <br />
-                        Like our friends in {' '} <a href="http://miamiclimatealliance.org/">Miami</a>, our members our dedicated to equity and resillience though activating local communities through action and increasing awareness about how climate change puts all forms of justice at risk.
+                        Like our friends in {' '} <a href="http://miamiclimatealliance.org/">Miami</a>, our members our dedicated to equity and resillience.
                     </p>
                     <ul className="actions">
                         <li>

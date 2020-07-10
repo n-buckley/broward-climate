@@ -14,9 +14,9 @@ class LandingPage extends React.Component {
                 <div className="inner">
                 <h1>Broward Climate Alliance</h1>
                 <p>
-                    Broward Climate Alliance is a coaliton of many organizations with the same goals: to educate citizens about the current climate situation and generate political will for climate action.
+                    Broward Climate Alliance is a coalition  of many organizations with the same goals: to educate citizens about the current climate crisis and generate political will for climate action.
                     <br />
-                    This year is its inagural year as members found a lacking amount of communication between organizers. 
+                    This is its inaugural year.
                 </p>
                 <ul className="actions">
                     <li>
